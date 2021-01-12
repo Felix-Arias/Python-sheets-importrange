@@ -3,7 +3,7 @@
 Prerequisites: Ensure you have Python3.8+ installed, along with pip as well.
 
 
-Run this to install required modules, if you dont already have them.
+Run this to install required modules, if you don't already have them.
 
 pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 
